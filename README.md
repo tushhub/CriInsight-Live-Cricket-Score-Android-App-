@@ -30,6 +30,11 @@ The app uses the [CricAPI](https://www.cricapi.com/) or [CricAPI on RapidAPI](ht
 
 ## Main Image                                                                                                                 ![Image](https://github.com/tushhub/CriInsight-Live-Cricket-Score-Android-App-/blob/main/Untitled-3.jpg?raw=true)
 
+##1.Starting Screen                                                                                                           ![Image](https://github.com/tushhub/CriInsight-Live-Cricket-Score-Android-App-/blob/main/Screenshot_20250508_235922.png?raw=true)
+
+##2.Preview Screen 
+![Image](https://github.com/tushhub/CriInsight-Live-Cricket-Score-Android-App-/blob/main/Screenshot_20250508_204829.png?raw=true)
+
 ## 📦 Setup Instructions
 
 ```bash
