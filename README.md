@@ -28,7 +28,7 @@ The app uses the [CricAPI](https://www.cricapi.com/) or [CricAPI on RapidAPI](ht
 
 ## 📸 Screenshots
 
-## Main Image                                                                                                                 ![Image](https://github.com/tushhub/CriInsight-Live-Cricket-Score-Android-App-/blob/main/Untitled-3.jpg?raw=true)
+## Main Image                                                                                                                 <img src="https://github.com/tushhub/CriInsight-Live-Cricket-Score-Android-App-/blob/main/Untitled-3.jpg?raw=true" width="100%" height="auto" />
 
 ##1.Starting Screen                                                                                                           ![Image](https://github.com/tushhub/CriInsight-Live-Cricket-Score-Android-App-/blob/main/Screenshot_20250508_235922.png?raw=true)
 
